@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Thinkscape.github.io
+title: Thinkscape of code
+tagline: May the code be with you
+description: My awesome new site
+paginate: 5
