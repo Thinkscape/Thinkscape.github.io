@@ -1,0 +1,16 @@
+---
+published: false
+title: test
+layout: post
+---
+Test foo bar
+
+````php
+<?php
+$f = function($a){ return $a();}
+$f(function(){yield true;});
+````
+
+````js
+document.window;
+````
